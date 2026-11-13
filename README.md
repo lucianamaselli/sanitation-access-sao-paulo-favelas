@@ -24,7 +24,7 @@ The findings are correlational. They suggest that São Paulo should consider san
 
 ## Analysis code
 
-The [Stata do-file](sanitation_analysis.do) documents selected analyses from the dissertation workflow, including linear regressions for water and sewer coverage and probit models with average marginal effects for groups defined by sewer coverage. It takes a local dataset path as input and writes a local analysis log using built-in Stata commands. This revision was reviewed without execution and has yet to be checked against the final dissertation tables.
+The [Stata do-file](sanitation_analysis.do) documents selected analyses from the dissertation workflow, including linear regressions for water and sewer coverage and probit models with average marginal effects for groups defined by sewer coverage. It takes a local dataset path as input and writes a local analysis log using built-in Stata commands. This do-file documents selected analyses from my master’s dissertation. The underlying dataset is private.
 
 ## Data availability
 
