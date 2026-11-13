@@ -22,6 +22,10 @@ I used regression analysis in Stata to examine associations between the share of
 
 The findings are correlational. They suggest that São Paulo should consider sanitation alongside housing, land tenure regularization, and other public services when designing favela upgrading programs. The association with school presence also raises a question for future research about how education infrastructure and other public investments are coordinated in underserved neighborhoods.
 
+## Analysis code
+
+The [Stata do-file](sanitation_analysis.do) documents selected analyses from the dissertation workflow, including linear regressions for water and sewer coverage and probit models with average marginal effects for groups defined by sewer coverage. It takes a local dataset path as input and writes a local analysis log using built-in Stata commands. This revision was reviewed without execution and has yet to be checked against the final dissertation tables.
+
 ## Data availability
 
 The integrated dataset is private while I prepare the research for publication.
